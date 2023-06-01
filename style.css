@@ -1,0 +1,319 @@
+@import url("https://fonts.googleapis.com/css2?family=Imbue:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+body {
+  width: -moz-max-content;
+  width: max-content;
+  background-color: black;
+}
+
+.Logo {
+  position: absolute;
+  width: 340px;
+  height: 608px;
+  left: 575px;
+}
+
+.Title {
+  position: absolute;
+  font-family: "Imbue";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 154px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  left: 365px;
+  top: 549px;
+}
+
+.discret {
+  position: absolute;
+  left: 460px;
+  top: 750px;
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 59px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  width: 586px;
+}
+
+.mic {
+  position: absolute;
+  top: 1069px;
+  width: -moz-max-content;
+  width: max-content;
+  height: 772px;
+}
+
+.his {
+  position: absolute;
+  left: 405px;
+  top: 1780px;
+  font-family: "Kaisei HarunoUmi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 139px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.dis_his {
+  position: absolute;
+  left: 264px;
+  top: 1990px;
+  font-family: "K2D";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 62px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  width: 960px;
+}
+
+.mic_two {
+  position: absolute;
+  left: 0px;
+  top: 2540px;
+  height: 881px;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.rod {
+  position: absolute;
+  left: 383px;
+  top: 3422px;
+  font-family: "Kaisei HarunoUmi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 139px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.dis_rod {
+  position: absolute;
+  left: 35px;
+  top: 3610px;
+  font-family: "Lobster Two";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.rab {
+  position: absolute;
+  left: 0px;
+  top: 3910px;
+  height: 804px;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.naz {
+  position: absolute;
+  left: 400px;
+  top: 4670px;
+  font-family: "Kaisei HarunoUmi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 139px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.dis_naz {
+  position: absolute;
+  left: 230px;
+  top: 4865px;
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.pub {
+  position: absolute;
+  left: 0px;
+  top: 5110px;
+  height: 988px;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.god {
+  position: absolute;
+  left: 444px;
+  top: 6170px;
+  font-family: "Kaisei HarunoUmi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 139px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.dis_god {
+  position: absolute;
+  left: 585px;
+  top: 6323px;
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.alco {
+  position: absolute;
+  left: 0px;
+  top: 6555px;
+  height: 981px;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.creat {
+  position: absolute;
+  left: 444px;
+  top: 7555px;
+  font-family: "Kaisei HarunoUmi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 139px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.dis_creat {
+  position: absolute;
+  left: 440px;
+  top: 7765px;
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.rab_Genry {
+  position: absolute;
+  left: 0px;
+  top: 7955px;
+  height: 1544px;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.spis {
+  position: absolute;
+  left: 180px;
+  top: 9350px;
+  font-family: "Kaisei HarunoUmi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 139px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.dis_spis {
+  position: absolute;
+  left: 600px;
+  top: 9535px;
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.vk {
+  position: absolute;
+  width: 1024px;
+  height: 1024px;
+  left: 240px;
+  top: 10680px;
+}
+
+.vk_d {
+  position: absolute;
+  left: 360px;
+  top: 11705px;
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.button {
+  position: absolute;
+  left: 210px;
+  top: 11955px;
+  width: 1094px;
+  height: 287px;
+}/*# sourceMappingURL=style.css.map */
